@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "落噺 (儒烏風亭らでん SOLO)",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2025-12-10T05:35:27.713607Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "落噺 (儒烏風亭らでん SOLO)",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_落噺_(儒烏風亭らでん_SOLO)_ReGLOSS.txt"
+    }
+  ]
+}
